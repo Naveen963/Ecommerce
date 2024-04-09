@@ -36,7 +36,8 @@ function SignUp() {
             setName("")
             setEmail("")
             setPassword("");
-            setAvatar()
+            setAvatar();
+            navigate("/")
         }).catch(err => {
             toast.error(err.response.data.message)
         })
