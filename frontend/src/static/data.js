@@ -198,21 +198,21 @@ export const categoriesData = [
   },
   {
     id: 2,
-    title: "cosmetics and body care",
+    title: "Cosmetics and Body care",
     subTitle: "",
     image_Url:
       "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2021-07/kosme1.png",
   },
   {
     id: 3,
-    title: "Accesories",
+    title: "Accessories",
     subTitle: "",
     image_Url:
       "https://img.freepik.com/free-vector/ordering-goods-online-internet-store-online-shopping-niche-e-commerce-website-mother-buying-babies-clothes-footwear-toys-infant-accessories_335657-2345.jpg?w=2000",
   },
   {
     id: 4,
-    title: "Cloths",
+    title: "Clothes",
     subTitle: "",
     image_Url:
       "https://www.shift4shop.com/2015/images/industries/clothing/clothing-apparel.png",
@@ -229,17 +229,18 @@ export const categoriesData = [
     title: "Gifts",
     subTitle: "",
     image_Url:
-      "https://securecdn.pymnts.com/wp-content/uploads/2014/11/Gifts-Photo-700x489.jpg",
+      "https://i0.wp.com/daisymultifacetica.com/wp-content/uploads/2021/08/1B9A0729-web-720-1.png?resize=1000%2C667&ssl=1",
   },
   {
     id: 7,
     title: "Pet Care",
     subTitle: "",
-    image_Url: "https://cdn.openpr.com/T/c/Tc15444071_g.jpg",
+    image_Url:
+      "https://logowik.com/content/uploads/images/animal-care-pet91179.logowik.com.webp",
   },
   {
     id: 8,
-    title: "Mobile and Tablets",
+    title: "Mobiles and Tablets",
     subTitle: "",
     image_Url:
       "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mpwp3tua-apple-iphone-14-256gb-mavi-mpwp3tua-637986832343472449.jpg",
@@ -271,7 +272,7 @@ export const productData = [
     image_Url: [
       {
         public_id: "test",
-        url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+        url: "https://freepngimg.com/download/laptop/162038-laptop-notebook-free-clipart-hq.png",
       },
       {
         public_id: "test",
@@ -331,7 +332,7 @@ export const productData = [
     image_Url: [
       {
         public_id: "test",
-        url: "https://www.istorebangladesh.com/images/thumbs/0000286_macbook-pro-m1_550.png",
+        url: "https://freepngimg.com/download/laptop/162038-laptop-notebook-free-clipart-hq.png",
       },
       {
         public_id: "test",
